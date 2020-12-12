@@ -1,4 +1,4 @@
-### Note: This repository will be deprecated soon, please refer to the new repository in the Tuya Github Organization: https://github.com/tuya/tuya_home_android_sdk.
+### Note: This repository will be deprecated soon, please refer to the new repository in the Tuya Github Organization: https://github.com/tuya/tuya-home-android-sdk.
 
 ## Tuya Smart Android SDK
 
